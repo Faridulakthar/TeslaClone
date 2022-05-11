@@ -10,7 +10,6 @@ This is the project built by React-Native Expo-CLI
 Install dependencies
 
 To run Metro
-
 ```
 npm install
 
@@ -21,5 +20,4 @@ Run on Simulator
 press i - IOS
 press a - Android
 press w - web
-
 ```
