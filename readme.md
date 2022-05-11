@@ -1,6 +1,6 @@
 # Tailwind Manage Landing Page
 
-This is the project built by React-Native Expo-cli
+This is the project built by React-Native Expo-CLI
 
 ![Alt text](assets/images/screenshot.png?raw=true)
 
