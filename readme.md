@@ -20,3 +20,4 @@ press i - IOS
 press a - Android
 press w - web
 ```
+Scan the QR to use it on mobile after starting the server.
