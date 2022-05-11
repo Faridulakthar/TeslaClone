@@ -12,7 +12,6 @@ Install dependencies
 To run Metro
 ```
 npm install
-
 ```
 Run on Simulator
 
