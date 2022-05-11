@@ -1,4 +1,4 @@
-# Tailwind Manage Landing Page
+# Tesla-clone React-native
 
 This is the project built by React-Native Expo-CLI
 
